@@ -1,0 +1,24 @@
+{
+  "name": "email-with-nodejs",
+  "version": "1.0.0",
+  "description": "- This is project is part of Codecademy [Full-Stack Engineer Pathway's](https://www.codecademy.com/learn/paths/full-stack-engineering-cfb) external resource:\r     - [How to Send Emails with Node.js](https://stackabuse.com/how-to-send-emails-with-node-js/) Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aott33/email-with-nodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aott33/email-with-nodeJS/issues"
+  },
+  "homepage": "https://github.com/aott33/email-with-nodeJS#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "nodemailer": "^6.7.6"
+  }
+}
